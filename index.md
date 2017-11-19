@@ -1,3 +1,5 @@
-</head><body background="image/bg25.jpg"><center><h1><font face="微軟正黑體"><font color="brown"><font size="10">【札哈‧哈蒂建築師事務所 - 全球設計實驗室│特展】來自外星的建築？一起走進曲線女帝 Zaha Hadid 的建築狂想</font></font></h1><img src="image/pic1.jpg" height="200" widte="300" title="大樓" alt="大樓"><img src="image/pic2.jpg" height="200" widte="300" title="夾縫" alt="夾縫"><img src="image/pic3.jpg" height="200" widte="100" title="哈里發塔" alt="哈里發塔"><br><img src="image/pic4.jpg" height="200" widte="100" title="新建築" alt="新建築"><img src="image/pic5.jpg" height="200" widte="100" title="日式江戶" alt="日式江戶"><img src="image/pic6.jpg" height="200" widte="100" title="新美術館" alt="新美術館"><br><img src="image/pic7.jpg" height="200" widte="100" title="新世紀" alt="新世紀"><img src="image/pic8.jpg" height="200" widte="100" title="光柵教堂" alt="光柵教堂"><img src="image/pic9.jpg" height="200" widte="100" title="婚紗攝影" alt="婚紗攝影"><br><br><font size="4"><font color="blue">很少人能像「建築女帝」札哈‧哈蒂（Zaha Hadid）一樣，即使在 2016 年 3 月 31 日去世後，大名仍持續世人前熠熠生輝。一生摘下眾多世界設計獎項與桂冠的 Zaha Hadid，2004 作為首位獲得建築界最高榮譽「普立茲克建築獎」的女性建築師，以她為名的事務所遺留下了近 900 多件建築禮物，橫跨全球約 45 個國家，除了以超現實與濃烈個人特色的前衛風格，在全球建築界享富盛名，她孜孜矻矻、燦爛奪目的人生傳奇，也成為後代無限的靈感啟發。  不只 「淡江大橋」曾牽起台灣與女帝的緣分，今年 7 月 8 日至 10 月10 日在松山文創園區今正展出的「札哈‧哈蒂建築師事務所 - 全球設計實驗室│特展」（Zaha Hadid Architects - Global Design Laboratory）也讓台灣與  Zaha Hadid 難得再續前緣，將 Hadid 過去對都市化、建築學以及設計相關領域多年的研究秘辛，一次在我們的眼前揭開。
- 
-出生於 1950 年伊拉克巴格達，儘管大家早已聽過數以百計關於 Zaha Hadid 的人生故事，但它們皆有跡可循，不外乎關於她如何如千軍萬馬般，在男性主導的建築世界中，不斷打破陳規、推移疆界、開闢出自己的道路、並在與傳統的力抗中，最終獲得了璀璨不朽的成就。「作為一個建築師，我還只沾到了邊緣！」雖然她曾謙虛地如此說過，但作為當今公認的最偉大的建築師之一，她的影響力與魅力，至今依舊是許多建築師窮極一生仍難以企及的理想與高度。
+<html>
+<head>
+<title>關島 - Guam</title><center><h1><font face="微軟正黑體"><font color="brown"><font size="10">
+
+</head><body background="image/bg25.jpg">
